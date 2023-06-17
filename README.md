@@ -2,6 +2,7 @@
 - 👀 I’m interested in ... Robotics
 - 🌱 I’m currently learning ... 3D Design
 - 💞️ I’m looking to collaborate on ... Graphical Projects
+- 🤖 I have a great deal of experience on ... ai tools
 - 📫 How to reach me ... criskevinbjorndal@gmail.com
 
 <!---
